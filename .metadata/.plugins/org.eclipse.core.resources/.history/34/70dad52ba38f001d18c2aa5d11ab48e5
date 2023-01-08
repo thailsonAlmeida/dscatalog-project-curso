@@ -1,0 +1,5 @@
+package dscatalog.resources;
+
+public class CategoryResource {
+
+}
