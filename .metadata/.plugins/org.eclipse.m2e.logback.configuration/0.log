@@ -308,3 +308,21 @@
 2023-01-08 21:14:38,053 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
 2023-01-08 21:14:38,061 [Worker-59: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
 2023-01-08 21:15:37,207 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-08 21:15:37,215 [Worker-60: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-08 21:42:39,109 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-08 21:42:39,121 [Worker-63: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-08 21:43:37,924 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-08 21:43:37,940 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-08 21:44:24,376 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-08 21:44:24,391 [Worker-64: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-08 21:52:05,686 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-08 21:52:05,686 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-08 21:52:05,689 [Worker-61: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-08 21:53:31,473 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-08 21:53:31,473 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-08 21:53:31,476 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-08 21:54:28,227 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-08 21:54:28,228 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-08 21:54:28,230 [Worker-62: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-08 21:56:03,508 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-08 21:56:03,508 [Worker-66: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
