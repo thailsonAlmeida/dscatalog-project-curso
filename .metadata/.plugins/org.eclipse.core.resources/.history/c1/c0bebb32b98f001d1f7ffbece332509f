@@ -1,0 +1,5 @@
+package dscatalog.dto;
+
+public class CategoryDTO {
+
+}
