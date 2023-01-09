@@ -1,0 +1,19 @@
+package dscatalog.services;
+
+import java.util.List;
+
+import org.springframework.stereotype.Service;
+
+import dscatalog.entities.Category;
+import dscatalog.repositories.CategoryRepository;
+
+@Service
+public class CategoryService {
+	
+	@Autowired
+	private CategoryRepository repository;
+	
+	public List<Category> findAll(){
+		return null;
+	}
+}

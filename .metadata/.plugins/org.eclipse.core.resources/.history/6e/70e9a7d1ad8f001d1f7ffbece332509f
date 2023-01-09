@@ -1,0 +1,5 @@
+package dscatalog.repositories;
+
+public interface CategoryRapository extends JpaRepository<T, ID> {
+
+}
