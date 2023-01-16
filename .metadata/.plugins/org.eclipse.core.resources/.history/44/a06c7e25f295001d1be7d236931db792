@@ -1,0 +1,6 @@
+package dscatalog.resources.exceptions;
+
+@ControllerAdvice
+public class ResourceExceptionHandler {
+
+}
