@@ -1,9 +1,0 @@
-package dscatalog.resources;
-
-import org.springframework.web.bind.annotation.RestController;
-
-@RestController
-@ResquestMapping(value = "/categories")
-public class CategoryResource {
-
-}

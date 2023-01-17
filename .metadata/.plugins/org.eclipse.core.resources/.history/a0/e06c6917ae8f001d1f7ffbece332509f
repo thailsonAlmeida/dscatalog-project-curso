@@ -1,6 +1,0 @@
-package dscatalog.services;
-
-@Service
-public class CategoryService {
-
-}
