@@ -515,3 +515,73 @@
 2023-01-17 10:36:42,633 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
 2023-01-17 10:36:56,926 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
 2023-01-17 10:36:56,931 [Worker-16: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:40:50,844 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:40:50,848 [Worker-15: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:48:33,340 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:48:33,345 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:48:38,428 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:48:38,433 [Worker-20: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:50:23,412 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:50:23,420 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:50:40,300 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:50:40,306 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:50:58,179 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:50:58,184 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:51:11,415 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:51:11,423 [Worker-23: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:51:55,384 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:51:55,389 [Worker-18: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:54:27,769 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:54:27,773 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:54:46,291 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:54:46,296 [Worker-17: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 10:58:50,428 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 10:58:50,432 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:00:44,393 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:00:44,405 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:03:19,655 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:03:19,666 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:04:37,090 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:04:37,096 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:05:29,241 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:05:29,249 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:06:38,732 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:06:38,737 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:07:03,838 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:07:03,842 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:07:25,224 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:07:25,229 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:07:50,702 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:07:50,708 [Worker-32: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:08:09,629 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:08:09,633 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:08:24,988 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:08:24,996 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:09:32,687 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:09:32,690 [Worker-29: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:09:34,729 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:09:34,732 [Worker-22: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:09:45,627 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:09:45,631 [Worker-33: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:12:06,170 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 11:12:06,173 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 11:12:06,175 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:13:07,727 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 11:13:07,733 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 11:13:07,735 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:13:12,101 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 11:13:12,105 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-01-17 11:13:12,107 [Worker-36: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:18:58,854 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:18:58,858 [Worker-31: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:19:11,167 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:19:11,172 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:21:08,869 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 11:21:08,876 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:21:44,899 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-01-17 11:21:44,903 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:30:09,854 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:30:09,858 [Worker-40: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:30:48,289 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
+2023-01-17 11:30:48,292 [Worker-35: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\Thailson\Desktop\Projeto Ferias\Repositorio\dscatalog\backend\src\test\resources
+2023-01-17 11:42:03,302 [Worker-44: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 2 resources
