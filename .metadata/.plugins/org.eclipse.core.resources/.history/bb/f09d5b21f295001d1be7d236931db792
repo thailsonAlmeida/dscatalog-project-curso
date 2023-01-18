@@ -1,5 +1,0 @@
-package dscatalog.resources.exceptions;
-
-public class ResourceExceptionHandler {
-
-}

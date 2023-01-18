@@ -1,5 +1,0 @@
-package dscatalog.services.exceptios;
-
-public class EntityNotFoundException extends RuntimeException {
-
-}
